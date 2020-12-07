@@ -1,0 +1,10 @@
+#include <fstream>
+#include "ns3/core-module.h"
+#include "ns3/csma-module.h"
+#include "ns3/applications-module.h"
+#include "ns3/internet-module.h"
+#include "ns3/flow-monitor-module.h"
+#include "ns3/flow-monitor-helper.h"
+#include "ns3/ipv4-static-routing-helper.h"
+#include "ns3/ipv4-routing-table-entry.h"
+#include "ns3/ipv4-global-routing-helper.h"
